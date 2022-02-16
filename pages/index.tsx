@@ -21,6 +21,7 @@ export default function Home() {
         </div>
         <img className="hidden md:inline-flex h-32 lg:h-96" src="https://miro.medium.com/max/698/4*BIK9VGjeCj2TaTDw4id2nA.png" alt="" />
       </div>
+      {/* Posts */}
     </div>
   );
 }
